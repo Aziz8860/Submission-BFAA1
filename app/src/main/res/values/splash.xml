@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.LatihanFundamental.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/github_mark</item>
+        <item name="postSplashScreenTheme">@style/Theme.LatihanFundamental</item>
+    </style>
+
+</resources>
